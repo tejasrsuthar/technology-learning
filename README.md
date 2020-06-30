@@ -42,3 +42,4 @@
 - [ ] Rest API micro services development with GraphQL
 ### Resume Writing
 ## YouTube Videos
+- [ ] Geofencing (https://www.youtube.com/watch?v=L2usqMhdxFA)
