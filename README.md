@@ -34,7 +34,7 @@
 - [ ] Docker mastery with Docker and Kubernetes
 - [ ] Docker with Kubernetes (latest 2020)
 - [ ] Advanced Deployment with Docker and Node.JS
-- [ ] Elastic Beanstalk App building, testing, deployment
+- [X] Elastic Beanstalk App building, testing, deployment
 ### Development & Tooling
 - [ ] Advanced Typescript Understanding and Development
 - [ ] Data structure and Algorithms
